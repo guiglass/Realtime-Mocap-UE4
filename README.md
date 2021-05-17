@@ -1,5 +1,5 @@
 # Luxor to Unreal for live motion capture production. 
-### This project is still a 'work in progress' and currently only shows has a single example showing a method of connecting avatars in UE4 to luxor.
+### This project is still a 'work in progress' and currently only shows has a single example showing a method of connecting avatars in UE4 (4.25) to luxor.
 ### There are still many things that needs to be worked on to make this example more functional and I will be trying to improve this project and add more examples in the near future, please check back often!
 ### This project requires Luxor mocap fusion (www.MocapFusion.com). Check the youtube video below for examples showing how to setup for streaming motion capture data from Luxor directly to avatars in Unreal.
 
