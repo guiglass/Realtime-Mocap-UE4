@@ -1,4 +1,4 @@
-# This project has not moved to UE5 - Please check this repo for future updates: https://github.com/guiglass/Unreal_Engine_5_Live_Production_Example
+# Project has moved to UE5 - Please check here for future updates: https://github.com/guiglass/Unreal_Engine_5_Live_Production_Example
 
 # Unreal for live motion capture production. 
 ### This project is still a 'work in progress' and currently only shows has a single example showing a method of connecting avatars in UE4 (4.25) to luxor.
